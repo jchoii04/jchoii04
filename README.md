@@ -1,13 +1,24 @@
-👋 Hi, I’m John Choi![people-200x200](https://github.com/user-attachments/assets/25e0623a-65da-4d9d-a362-e003ece2d326)
+<h1>🔥 Hi, I’m John Choi! </h1>
 
-👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3> 🚀 I am a fourth year computer science student! </h3>
 
-<!---
-jchoii04/jchoii04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://raw.githubusercontent.com/jchoii04/jchoii04/main/graduation.png" alt="Graduation Image" width='150'>
+
+- 👀 I’m interested in fullstack and app development!
+
+- <img src="https://github.com/jchoii04/jchoii04/blob/main/modeling.png" width='45'> I have experience coding with Java, Python, C++, JS, and C#!
+- 🌱 I’m currently learning React Native and doing interview prep :)
+-  <img src="https://github.com/jchoii04/jchoii04/blob/main/performance.png" width='40'> I’m still looking for a group in COMPE 561! So HMU    
+
+
+- 📫 How to reach me: email me! jchoi9701@sdsu.edu
+
+
+<p align="center">
+  Let's Connect!
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonghyunchoi1004">
+      <img src="https://github.com/jchoii04/jchoii04/blob/main/linkedin.png" width='45'> 
+  </a>
+</p>
