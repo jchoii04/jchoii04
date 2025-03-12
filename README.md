@@ -8,7 +8,7 @@
 
 - <img src="https://github.com/jchoii04/jchoii04/blob/main/modeling.png" width='45'> I have experience coding with Java, Python, C++, JS, and C#!
 - 🌱 I’m currently learning React Native and doing interview prep :)
--  <img src="https://github.com/jchoii04/jchoii04/blob/main/performance.png" width='40'> I’m still looking for a group in COMPE 561! So HMU    
+   
 
 
 - 📫 How to reach me: email me! jchoi9701@sdsu.edu
