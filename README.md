@@ -1,6 +1,6 @@
 <h1>🔥 Hi, I’m John Choi! </h1>
 
-<h3> 🚀 I am a fourth year computer science student! </h3>
+<h3> 🚀 I am a new grad with a bachelors in Computer Science! </h3>
 
 <img src="https://raw.githubusercontent.com/jchoii04/jchoii04/main/graduation.png" alt="Graduation Image" width='150'>
 
@@ -11,7 +11,7 @@
    
 
 
-- 📫 How to reach me: email me! jchoi9701@sdsu.edu
+- 📫 How to reach me: email me! jchoi9701@sdsu.edu or jonghyun.choi04@gmail.com
 
 
 <p align="center">
